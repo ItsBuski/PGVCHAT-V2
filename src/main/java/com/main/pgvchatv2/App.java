@@ -7,7 +7,7 @@ import java.io.IOException;
 
 public class App extends Application {
     @Override
-    public void start(Stage stage) throws IOException {
+    public void start(Stage stage) {
         Ventana.logginV();
     }
 
